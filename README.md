@@ -16,4 +16,3 @@ https://www.linkedin.com/in/rajat-jha-29985b22a/
 
 ## 🛠 Skills
 Javascript, HTML, CSS, C, Java, Python, MySQL...
-
