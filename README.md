@@ -4,7 +4,7 @@
 
 This webpage created with the idea of attractive clock.
 
-# Hi, I'm prabeen! 👋
+# Hi, I'm Tannu! 👋
 
 
 ## 🚀 About Me
@@ -12,9 +12,8 @@ I'm a developer...
 
 
 ## 🔗 Links
-[![Instagram](https://img.shields.io/badge/instagram-171717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-
+https://www.linkedin.com/in/rajat-jha-29985b22a/
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C, C++, Java...
+Javascript, HTML, CSS, C, Java, Python, MySQL...
 
