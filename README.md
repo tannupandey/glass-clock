@@ -12,7 +12,7 @@ I'm a developer...
 
 
 ## 🔗 Links
-https://www.linkedin.com/in/rajat-jha-29985b22a/
+https://www.linkedin.com/in/tannu-pandey-026240231/
 
 ## 🛠 Skills
 Javascript, HTML, CSS, C, Java, Python, MySQL...
